@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "system_error": "cpp",
+        "iosfwd": "cpp",
+        "__locale": "cpp",
+        "locale": "cpp",
+        "iterator": "cpp",
+        "iostream": "cpp",
+        "__config": "cpp",
+        "__nullptr": "cpp",
+        "exception": "cpp",
+        "initializer_list": "cpp",
+        "new": "cpp",
+        "stdexcept": "cpp",
+        "typeinfo": "cpp",
+        "algorithm": "cpp",
+        "filesystem": "cpp",
+        "ios": "cpp"
+    }
+}
